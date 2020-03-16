@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da57fbb1-22aa-4abc-8152-dcef146ca1da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/VisionAPI_Demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/VisionAPI_Demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level-choir-270012-01b64112992f.json" beforeDir="false" />
-    </list>
+    <list default="true" id="da57fbb1-22aa-4abc-8152-dcef146ca1da" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +76,7 @@
       <updated>1584317060389</updated>
       <workItem from="1584317074833" duration="671000" />
       <workItem from="1584352905247" duration="126000" />
-      <workItem from="1584361135472" duration="8131000" />
+      <workItem from="1584361135472" duration="8731000" />
     </task>
     <servers />
   </component>
