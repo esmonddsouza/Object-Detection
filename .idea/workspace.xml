@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da57fbb1-22aa-4abc-8152-dcef146ca1da" name="Default Changelist" comment="" />
+    <list default="true" id="da57fbb1-22aa-4abc-8152-dcef146ca1da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VisionAPI_Demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/VisionAPI_Demo.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +79,10 @@
       <updated>1584317060389</updated>
       <workItem from="1584317074833" duration="671000" />
       <workItem from="1584352905247" duration="126000" />
-      <workItem from="1584361135472" duration="8731000" />
+      <workItem from="1584361135472" duration="9936000" />
+      <workItem from="1584479418094" duration="1742000" />
+      <workItem from="1584537884123" duration="7462000" />
+      <workItem from="1584732309325" duration="9387000" />
     </task>
     <servers />
   </component>
@@ -88,13 +94,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Object_Detection$VisionAPI_Demo.coverage" NAME="VisionAPI_Demo Coverage Results" MODIFIED="1584370416942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Object_Detection$VisionAPI_Demo.coverage" NAME="VisionAPI_Demo Coverage Results" MODIFIED="1584821167098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
