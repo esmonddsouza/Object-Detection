@@ -1,0 +1,26 @@
+For Kangaroo-
+
+{'Labels': [{'Name': 'Kangaroo', 'Confidence': 96.5771484375, 'Instances': [], 'Parents': [{'Name': 'Animal'}, {'Name': 'Mammal'}]}, {'Name': 'Animal', 'Confidence': 96.5771484375, 'Instances': [], 'Parents': []}, {'Name': 'Mammal', 'Confidence': 96.5771484375, 'Instances': [], 'Parents': [{'Name': 'Animal'}]}], 'LabelModelVersion': '2.0', 'ResponseMetadata': {'RequestId': 'fc6552aa-1b25-4234-8f2d-13bd36d371a9', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'application/x-amz-json-1.1', 'date': 'Mon, 23 Mar 2020 20:41:04 GMT', 'x-amzn-requestid': 'fc6552aa-1b25-4234-8f2d-13bd36d371a9', 'content-length': '311', 'connection': 'keep-alive'}, 'RetryAttempts': 0}}
+
+For bicycle-
+
+{'Labels': [{'Name': 'Person', 'Confidence': 99.92605590820312, 'Instances': [{'BoundingBox': {'Width': 0.21275895833969116, 'Height': 0.5509903430938721, 'Left': 0.12686792016029358, 'Top': 0.19272005558013916}, 'Confidence': 99.92605590820312}], 'Parents': []}, {'Name': 'Bicycle', 'Confidence': 95.06803894042969, 'Instances': [{'BoundingBox': {'Width': 0.30595338344573975, 'Height': 0.40471798181533813, 'Left': 0.0878039300441742, 'Top': 0.41338738799095154}, 'Confidence': 95.06803894042969}], 'Parents': [{'Name': 'Transportation'}]}, {'Name': 'Transportation', 'Confidence': 95.06803894042969, 'Instances': [], 'Parents': []}], 'LabelModelVersion': '2.0', 'ResponseMetadata': {'RequestId': '13718918-36df-4581-ba0f-b22a831deaca', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'application/x-amz-json-1.1', 'date': 'Mon, 23 Mar 2020 20:54:57 GMT', 'x-amzn-requestid': '13718918-36df-4581-ba0f-b22a831deaca', 'content-length': '617', 'connection': 'keep-alive'}, 'RetryAttempts': 0}}
+END RequestId: b5b7d857-625a-43e4-bf6d-4005fd91361f
+
+For catDeer
+
+{'Labels': [{'Name': 'Mammal', 'Confidence': 92.58885955810547, 'Instances': [], 'Parents': [{'Name': 'Animal'}]}, {'Name': 'Animal', 'Confidence': 92.58885955810547, 'Instances': [], 'Parents': []}, {'Name': 'Grass', 'Confidence': 92.5852279663086, 'Instances': [], 'Parents': []}], 'LabelModelVersion': '2.0', 'ResponseMetadata': {'RequestId': 'ebe483bc-0e20-447b-9066-665f14a3cccb', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'application/x-amz-json-1.1', 'date': 'Mon, 23 Mar 2020 20:56:17 GMT', 'x-amzn-requestid': 'ebe483bc-0e20-447b-9066-665f14a3cccb', 'content-length': '284', 'connection': 'keep-alive'}, 'RetryAttempts': 0}}
+
+For download
+
+{'Labels': [{'Name': 'Path', 'Confidence': 99.92267608642578, 'Instances': [], 'Parents': []}, {'Name': 'Trail', 'Confidence': 89.17691040039062, 'Instances': [], 'Parents': [{'Name': 'Path'}]}, {'Name': 'Sidewalk', 'Confidence': 85.587646484375, 'Instances': [], 'Parents': [{'Name': 'Path'}]}], 'LabelModelVersion': '2.0', 'ResponseMetadata': {'RequestId': '157aacf0-c172-46ce-baf5-83f6c69a102c', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'application/x-amz-json-1.1', 'date': 'Mon, 23 Mar 2020 20:58:41 GMT', 'x-amzn-requestid': '157aacf0-c172-46ce-baf5-83f6c69a102c', 'content-length': '296', 'connection': 'keep-alive'}, 'RetryAttempts': 0}}
+
+Lamp post
+
+{'Labels': [{'Name': 'Lamp Post', 'Confidence': 96.01988983154297, 'Instances': [], 'Parents': []}], 'LabelModelVersion': '2.0', 'ResponseMetadata': {'RequestId': 'ca70a3fe-ac54-40c6-af78-7913f6cd865d', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'application/x-amz-json-1.1', 'date': 'Mon, 23 Mar 2020 20:59:56 GMT', 'x-amzn-requestid': 'ca70a3fe-ac54-40c6-af78-7913f6cd865d', 'content-length': '118', 'connection': 'keep-alive'}, 'RetryAttempts': 0}}
+
+
+
+
+
+
